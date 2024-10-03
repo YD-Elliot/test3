@@ -5,7 +5,7 @@ title: Home
 {% for post in paginator.posts %}
 
 <div class="post">
-    <h2 id = "post-title"></h2>
+    <h2 id="post-title">{{ post.title }}</h2>
 
     {% if site.data.settings.date-under-post.active %} 
     <div class = "post-info">
