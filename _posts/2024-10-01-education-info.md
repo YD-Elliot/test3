@@ -1,7 +1,7 @@
 ---
 title: EDUCATION
 layout: post
-image: /assets/img/test_img.png
+image: /assets/img/univs_logo.png
 description: "education infomation"
 ---
 
