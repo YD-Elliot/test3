@@ -1,5 +1,5 @@
 ---
-title: This is test layout!
+title: SUMMARY
 layout: post
 categories: [Typography, Markdown, Tips]
 image: /assets/img/test_img.png
